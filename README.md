@@ -9,8 +9,6 @@
   7) Applied Mathematics 
 - 🌱 I have a master in mathematical engineering at Politecnico di Milano with a double degree in general engineering at Ecole Centrale de Lyon
 - I have worked on ML, NLP, DL and OCR technologies
-- I am doing a Ph.D. at Université Libre de Bruxelles in "Data assimilation framework for pollutions forecast in urban
-environments"
 - 💞️ I’m looking to collaborate on any of the previous topics and a lot more.
 - 📫 How to reach me lorenzofiorentini23@gmail.com
 
